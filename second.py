@@ -8,7 +8,7 @@
 # 24 -> 4  16  4
 # 60 -> 10  40  10
 
-guys = int(input("Сколько журавликов сделали ребята?"))
+guys = int(input("Сколько журавликов сделали ребята?: "))
 petya = int(guys / 6)
 sergey = petya
 katya = int((sergey+petya) * 2)
